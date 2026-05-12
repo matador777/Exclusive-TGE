@@ -5,3 +5,4 @@ Waiting for the rewards
 The base is a solid foundation
 We keep working and don't forget our friends
 Add login page
+Optimize database queries
